@@ -1,0 +1,11 @@
+Hello!
+Welcome to HelicopterGame2
+In this game you use the mouse to go up or down
+click the left mouse button to go up
+release to go down
+Don't hit the walls or you will die
+Collect powerups to do things you can't do in the original
+like shoot walls and many more
+Use space to use a powerup
+
+OK?
